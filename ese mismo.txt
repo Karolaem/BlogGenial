@@ -6,6 +6,10 @@ sigo avanzando despacio
 ah y es plano
 seguimos experimentando
 
+experimento 1
+
+master 1
+
 seguimos agregando mas lineas solo para ver las pruebas que estan haciendo
 master 1
 master2
