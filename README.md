@@ -12,5 +12,6 @@ Al parecer si funciono el cambio realizado
 * forkear los repos
 * hacer merge
 * (tengo que repasar el deployment)
+* Agradecimientos a la persona que facilito el curso
 
 Hay ** MUCHISMOS**, comandos que se pueden seguir aprendiendo pero el curso solo enseña lo escencial, que estan en la siguiente pagina [ver aqui](http://https://git-scm.com/docs/git "ver aqui")
